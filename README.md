@@ -1,2 +1,2 @@
-# Bitcoin_historical_dashboard_with_python
+# Bitcoin_historical_dashboard_Power_BI
 Data visualization through dashboard with Power BI
